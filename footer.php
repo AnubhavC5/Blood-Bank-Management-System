@@ -18,11 +18,10 @@
 <body>
 
 <div class="footer">
-  <p>© Copyright 2020<span id="demo"></span> <span class="brand">Blood Bank. </span> All Rights Reserved.
+  <p>© Copyright 2023<span id="demo"></span> <span class="brand">Blood Bank. </span> All Rights Reserved.
 </footer></p>
 </div>
 
 </body>
 
-<!-- Mirrored from www.w3schools.com/howto/tryit.asp?filename=tryhow_css_fixed_footer by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 30 Jul 2018 02:09:43 GMT -->
 </html> 
